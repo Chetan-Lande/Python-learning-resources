@@ -1,4 +1,4 @@
-# Python-learning-resoucres
+# Python-learning-resources
 Welcome to the Python Learning Resources repository! This repository is designed to help learners of all levels master Python programming, from basic concepts to advanced techniques.
 # Table of Contents
 - [Overview](#overview)
